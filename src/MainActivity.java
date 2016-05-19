@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
 				   nameView.setText("Eyes depth as space... Smile as cheerful as u have got everythng u wished for...   Hands and the little steps u make as gentle as Baby .... Heart as pure as a moon....Silence as loud as electric guitar in my heart...Voice as melodic and funny...Pony u play with as its ur favrt toy....This is U my Sweet Little Girl as precious as Diamond"
 				   		+ " "
 				   		+ ""
-				   		+ "I Love You Varshitha !");
+				   		+);
 				   
 			   }
 			   
